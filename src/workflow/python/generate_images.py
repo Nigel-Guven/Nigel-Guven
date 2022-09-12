@@ -503,14 +503,9 @@ Languages:
 def generate_output_folder() -> None:
     """
     Create the output folder if it does not already exist
-    /home/runner/work/Nigel-Guven
     """
-    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
-    
-    if not os.path.isdir("generated"):
-        os.mkdir("generated")
-        
-    os.chdir("/home/runner/work/Nigel-Guven")
+    if not os.path.isdir("/src/workflow/generated"):
+        os.mkdir("/src/workflow/generated")
 
 
 ################################################################################
@@ -522,17 +517,7 @@ async def generate_overview(s: Stats) -> None:
     Generate an SVG badge with summary statistics
     :param s: Represents user's GitHub statistics
     """
-    pathmMyLad = os.getcwd()
-
-    print(pathmMyLad)
-    
-    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
-    
-    pathmMyLad = os.getcwd()
-
-    print(pathmMyLad)
-    
-    with open("overview.svg", "r") as f:
+    with open("/src/workflow/overview.svg", "r") as f:
         output = f.read()
 
     output = re.sub("{{ name }}", await s.name, output)
@@ -546,14 +531,8 @@ async def generate_overview(s: Stats) -> None:
     output = re.sub("{{ repos }}", f"{len(await s.repos):,}", output)
 
     generate_output_folder()
-    with open("generated/overview.svg", "w") as f:
+    with open("/src/workflow/generated/overview.svg", "w") as f:
         f.write(output)
-        
-    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
-    
-    pathmMyLad = os.getcwd()
-
-    print(pathmMyLad)
 
 
 async def generate_languages(s: Stats) -> None:
@@ -561,9 +540,7 @@ async def generate_languages(s: Stats) -> None:
     Generate an SVG badge with summary languages used
     :param s: Represents user's GitHub statistics
     """
-    
-    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
-    with open("languages.svg", "r") as f:
+    with open("/src/workflow/languages.svg", "r") as f:
         output = f.read()
 
     progress = ""
@@ -590,11 +567,10 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     output = re.sub(r"{{ progress }}", progress, output)
     output = re.sub(r"{{ lang_list }}", lang_list, output)
 
-    os.chdir("..")
     generate_output_folder()
-    with open("generated/languages.svg", "w") as f:
+    with open("/src/workflow/generated/languages.svg", "w") as f:
         f.write(output)
-        
+
 
 ################################################################################
 # Main Function
