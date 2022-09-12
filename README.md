@@ -6,6 +6,13 @@
 ![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/languages.svg)
 </a>
 
+<a href="https://github.com/jstrieb/github-stats">
+
+![]([](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/overview.svg))
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
 
 - :speech_balloon: &nbsp;I am currently working at a health-tech company **[LetsGetChecked]** as a software engineer
 - :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**
