@@ -7,7 +7,7 @@ import sys
 
 import aiohttp
 
-from github_stats import Stats
+from .github_stats import Stats
 
 
 ################################################################################
