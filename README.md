@@ -2,8 +2,8 @@
 <h3 align="left">I like Coding, Cars and Trail Running</h3>
 
 <a href="https://github.com/Nigel-Guven/Nigel-Guven">
-![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/templates/overview.svg)
-![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/templates/languages.svg)
+![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/overview.svg)
+![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/languages.svg)
 </a>
 
 
