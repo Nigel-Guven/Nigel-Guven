@@ -3,10 +3,11 @@
 import asyncio
 import os
 import re
+import sys
 
 import aiohttp
 
-from .github_stats import Stats
+from src/workflow/github_stats import Stats
 
 
 ################################################################################
