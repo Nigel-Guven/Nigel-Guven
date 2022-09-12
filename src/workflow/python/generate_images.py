@@ -562,7 +562,7 @@ async def generate_languages(s: Stats) -> None:
     :param s: Represents user's GitHub statistics
     """
     
-    os.chdir("/home/runner/work/Nigel-Guven/src/workflow/templates")
+    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
     with open("languages.svg", "r") as f:
         output = f.read()
 
