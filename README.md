@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nigel Guven</h1>
 <h3 align="left">I like Coding, Cars and Trail Running</h3>
 
-<a href="https://github.com/Nigel-Guven/Nigel-Guven">
+<a href="https://github.com/Nigel-Guven/Nigel-Guven" align="right">
 ![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/overview.svg)
 ![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/languages.svg)
 </a>
