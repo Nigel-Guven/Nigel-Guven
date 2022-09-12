@@ -4,8 +4,10 @@ import asyncio
 import os
 import re
 import sys
+from typing import Dict, List, Optional, Set, Tuple
 
 import aiohttp
+import requests
 
 
 ###############################################################################
