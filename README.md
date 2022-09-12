@@ -1,10 +1,10 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nigel Guven</h1>
 <h3 align="left">I like Coding, Cars and Trail Running</h3>
 
-- :speech_balloon: &nbsp;I am currently working at a health-tech company [LetsGetChecked] as a software engineer**
+- :speech_balloon: &nbsp;I am currently working at a health-tech company **[LetsGetChecked]** as a software engineer**
 - :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**
 - :speech_balloon: &nbsp;I like to talk about **Cars**, **New Technologies** and **History**
-- :car: My current project car is a Toyota [GT86]
+- :car: My current project car is a **Toyota [GT86]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
