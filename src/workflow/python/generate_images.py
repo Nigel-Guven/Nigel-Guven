@@ -503,13 +503,14 @@ Languages:
 def generate_output_folder() -> None:
     """
     Create the output folder if it does not already exist
+    /home/runner/work/Nigel-Guven
     """
-    os.chdir("..")
+    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
     
     if not os.path.isdir("generated"):
         os.mkdir("generated")
         
-    os.chdir("python")
+    os.chdir("/home/runner/work/Nigel-Guven")
 
 
 ################################################################################
@@ -525,13 +526,13 @@ async def generate_overview(s: Stats) -> None:
 
     print(pathmMyLad)
     
-    os.chdir("..")
+    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
     
     pathmMyLad = os.getcwd()
 
     print(pathmMyLad)
     
-    with open("templates/overview.svg", "r") as f:
+    with open("overview.svg", "r") as f:
         output = f.read()
 
     output = re.sub("{{ name }}", await s.name, output)
@@ -548,7 +549,7 @@ async def generate_overview(s: Stats) -> None:
     with open("generated/overview.svg", "w") as f:
         f.write(output)
         
-    os.chdir("python")
+    os.chdir("/home/runner/work/Nigel-Guven/src/workflow")
     
     pathmMyLad = os.getcwd()
 
@@ -561,8 +562,8 @@ async def generate_languages(s: Stats) -> None:
     :param s: Represents user's GitHub statistics
     """
     
-    os.chdir("..")
-    with open("templates/languages.svg", "r") as f:
+    os.chdir("/home/runner/work/Nigel-Guven/src/workflow/templates")
+    with open("languages.svg", "r") as f:
         output = f.read()
 
     progress = ""
@@ -589,11 +590,10 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     output = re.sub(r"{{ progress }}", progress, output)
     output = re.sub(r"{{ lang_list }}", lang_list, output)
 
+    os.chdir("..")
     generate_output_folder()
     with open("generated/languages.svg", "w") as f:
         f.write(output)
-        
-    os.chdir("python")
         
 
 ################################################################################
