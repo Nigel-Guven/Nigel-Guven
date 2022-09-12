@@ -540,8 +540,19 @@ async def generate_languages(s: Stats) -> None:
     Generate an SVG badge with summary languages used
     :param s: Represents user's GitHub statistics
     """
+    
+    path = os.getcwd()
+    print("DEBUG-------------")
+    print(path)
+    print("DEBUG-------------")
+    
     with open("/src/workflow/languages.svg", "r") as f:
         output = f.read()
+        
+    path = os.getcwd()
+    print("DEBUG-------------")
+    print(path)
+    print("DEBUG-------------")
 
     progress = ""
     lang_list = ""
@@ -567,9 +578,19 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     output = re.sub(r"{{ progress }}", progress, output)
     output = re.sub(r"{{ lang_list }}", lang_list, output)
 
+    path = os.getcwd()
+    print("DEBUG-------------")
+    print(path)
+    print("DEBUG-------------")
+
     generate_output_folder()
     with open("/src/workflow/generated/languages.svg", "w") as f:
         f.write(output)
+        
+    path = os.getcwd()
+    print("DEBUG-------------")
+    print(path)
+    print("DEBUG-------------")
 
 
 ################################################################################
