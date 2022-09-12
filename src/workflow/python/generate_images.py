@@ -7,7 +7,7 @@ import sys
 
 import aiohttp
 
-from workflow.github_stats import Stats
+from github_stats import Stats
 
 
 ################################################################################
