@@ -521,7 +521,15 @@ async def generate_overview(s: Stats) -> None:
     Generate an SVG badge with summary statistics
     :param s: Represents user's GitHub statistics
     """
+    pathmMyLad = os.getcwd()
+
+    print(pathmMyLad)
+    
     os.chdir("..")
+    
+    pathmMyLad = os.getcwd()
+
+    print(pathmMyLad)
     
     with open("templates/overview.svg", "r") as f:
         output = f.read()
@@ -541,6 +549,10 @@ async def generate_overview(s: Stats) -> None:
         f.write(output)
         
     os.chdir("python")
+    
+    pathmMyLad = os.getcwd()
+
+    print(pathmMyLad)
 
 
 async def generate_languages(s: Stats) -> None:
