@@ -504,8 +504,8 @@ def generate_output_folder() -> None:
     """
     Create the output folder if it does not already exist
     """
-    if not os.path.isdir("/src/workflow/generated"):
-        os.mkdir("/src/workflow/generated")
+    if not os.path.isdir("/home/runner/work/Nigel-Guven/Nigel-Guven/src/workflow/generated"):
+        os.mkdir("/home/runner/work/Nigel-Guven/Nigel-Guven/src/workflow/generated")
 
 
 ################################################################################
@@ -517,7 +517,7 @@ async def generate_overview(s: Stats) -> None:
     Generate an SVG badge with summary statistics
     :param s: Represents user's GitHub statistics
     """
-    with open("/src/workflow/overview.svg", "r") as f:
+    with open("/home/runner/work/Nigel-Guven/Nigel-Guven/src/workflow/overview.svg", "r") as f:
         output = f.read()
 
     output = re.sub("{{ name }}", await s.name, output)
@@ -531,7 +531,7 @@ async def generate_overview(s: Stats) -> None:
     output = re.sub("{{ repos }}", f"{len(await s.repos):,}", output)
 
     generate_output_folder()
-    with open("/src/workflow/generated/overview.svg", "w") as f:
+    with open("/home/runner/work/Nigel-Guven/Nigel-Guven/src/workflow/generated/overview.svg", "w") as f:
         f.write(output)
 
 
@@ -546,7 +546,7 @@ async def generate_languages(s: Stats) -> None:
     print(path)
     print("DEBUG-------------")
     
-    with open("/src/workflow/languages.svg", "r") as f:
+    with open("/home/runner/work/Nigel-Guven/Nigel-Guven/src/workflow/languages.svg", "r") as f:
         output = f.read()
         
     path = os.getcwd()
@@ -584,7 +584,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     print("DEBUG-------------")
 
     generate_output_folder()
-    with open("/src/workflow/generated/languages.svg", "w") as f:
+    with open("/home/runner/work/Nigel-Guven/Nigel-Guven/src/workflow/generated/languages.svg", "w") as f:
         f.write(output)
         
     path = os.getcwd()
