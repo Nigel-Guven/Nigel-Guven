@@ -107,6 +107,6 @@
 <!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/nigel-guven-4728aa159/ "Nigel Guven LinkedIn"
-[letsgetchecked]: https://www.letsgetchecked.ie/ LetsGetChecked IE
-[gt86]: https://www.instagram.com/p/CgrbrP0DvFR/
-[development]: https://i.pinimg.com/564x/f4/fe/d5/f4fed5d7f5b41f56affe501563de94b6.jpg
+[letsgetchecked]: https://www.letsgetchecked.ie/ "LetsGetChecked IE"
+[gt86]: https://www.instagram.com/p/CgrbrP0DvFR/ "Toyota GT86"
+[development]: https://i.pinimg.com/564x/f4/fe/d5/f4fed5d7f5b41f56affe501563de94b6.jpg ".Net Developer Path on Pinterest"
