@@ -1,10 +1,12 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nigel Guven</h1>
 <h3 align="left">I like Coding, Cars and Trail Running</h3>
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/Nigel-Guven/Nigel-Guven">
 ![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/templates/overview.svg)
 ![](https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/templates/languages.svg)
 </a>
+
+
 - :speech_balloon: &nbsp;I am currently working at a health-tech company **[LetsGetChecked]** as a software engineer
 - :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**
 - :speech_balloon: &nbsp;I like to talk about **Cars**, **New Technologies** and **History**
