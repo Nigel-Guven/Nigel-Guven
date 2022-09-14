@@ -83,7 +83,7 @@
 
 <td align="center" width="96">
 <a href="#nigel-guven">
-<img src="./src/img/typescript.jpg" width="48" height="48" alt="Typescript" />
+<img src="./src/img/typescript.png" width="48" height="48" alt="Typescript" />
 </a>
 <br>Typescript
 </td>
@@ -210,6 +210,81 @@
 <img src="./src/img/sass.png" width="48" height="48" alt="SASS" />
 </a>
 <br>SASS
+</td>
+        
+</tr>
+</table>
+
+<!---###############################################################################-->
+
+> IDE's I use
+
+<table>
+<tr>
+        
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/vs.png" width="48" height="48" alt="Visual Studio" />
+</a>
+<br>Visual Studio
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/android_studio.png" width="48" height="48" alt="AndroidStudio" />
+</a>
+<br>Android Studio
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/sqlserver.png" width="48" height="48" alt="SQLServer" />
+</a>
+<br>SQL Server
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/r.jpg" width="48" height="48" alt="RStudio" />
+</a>
+<br>RStudio
+</td>
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/codeblocks.png" width="48" height="48" alt="CodeBlocks" />
+</a>
+<br>CodeBlocks
+</td>
+        
+</tr>
+</table>
+
+<!---###############################################################################-->
+
+> Cloud Experience
+
+<table>
+<tr>
+        
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/aws.png" width="85" height="48" alt="AWS" />
+</a>
+<br>AWS
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/azure.png" width="48" height="48" alt="Azure" />
+</a>
+<br>Azure
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/gcp.png" width="70" height="48" alt="gcp" />
+</a>
+<br>GCP
 </td>
         
 </tr>
