@@ -29,7 +29,7 @@
 <p>
 <h2 align="left" id="macropower-tech">My Experience</h2>
 
-###############################################################################
+<!---###############################################################################-->
 
 > Programming Languages
 
@@ -67,7 +67,7 @@
 </tr>
 </table>
 
-###############################################################################
+<!---###############################################################################-->
 
 > Frontend Frameworks
 
@@ -98,7 +98,7 @@
 </tr>
 </table>
 
-###############################################################################
+<!---###############################################################################-->
 
 > Data-Oriented Languages
 
@@ -107,27 +107,115 @@
 
 <td align="center" width="96">
 <a href="#nigel-guven">
-<img src="./src/img/c-sharp.png" width="48" height="48" alt="SQL" />
+<img src="./src/img/sql-server.png" width="48" height="48" alt="SQL" />
 </a>
 <br>&nbsp;SQL
 </td>
 
 <td align="center" width="96">
 <a href="#nigel-guven">
-<img src="./src/img/java-original.png" width="48" height="48" alt="Bootstrap" />
+<img src="./src/img/r-icon.png" width="48" height="48" alt="R" />
 </a>
-<br>Java
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/python.png" width="48" height="48" alt="Python" />
-</a>
-<br>Python
+<br>R
 </td>
 
 </tr>
 </table>
+
+<!---###############################################################################-->
+
+> Other Languages
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/fsharp.png" width="48" height="48" alt="FSharp" />
+</a>
+<br>&nbsp;F#
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/node.png" width="48" height="48" alt="NodeJS" />
+</a>
+<br>NodeJS
+</td>
+        
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/masm32.png" width="48" height="48" alt="x86Assembly" />
+</a>
+<br>MASM32
+</td>
+
+</tr>
+</table>
+
+<!---###############################################################################-->
+
+> Data Objects and Serializers
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/yml.png" width="48" height="48" alt="YAML" />
+</a>
+<br>&nbsp;YAML
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/xml.png" width="48" height="48" alt="XML" />
+</a>
+<br>XML
+</td>
+        
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/json-file.png" width="48" height="48" alt="JSON" />
+</a>
+<br>JSON
+</td>
+
+</tr>
+</table>
+
+<!---###############################################################################-->
+
+> Web Styling
+
+<table>
+<tr>
+        
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/html.png" width="48" height="48" alt="HTML" />
+</a>
+<br>HTML
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/css.png" width="48" height="48" alt="CSS" />
+</a>
+<br>&nbsp;CSS
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/sass.png" width="48" height="48" alt="SASS" />
+</a>
+<br>SASS
+</td>
+        
+</tr>
+</table>
+
+<!---###############################################################################-->
 
 </p>
 </p>
