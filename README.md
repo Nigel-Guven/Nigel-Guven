@@ -544,7 +544,7 @@ I have a certificate in Scaled Agile Frameworks 4.0 which I received while on a 
 - Nancy
 - SpecFlow
 - Moq
--Serilog
+- Serilog
 
 <!---###############################################################################-->
     
