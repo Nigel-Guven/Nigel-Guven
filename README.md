@@ -29,34 +29,37 @@
 <p>
 <h2 align="left" id="macropower-tech">My Experience</h2>
 
+###############################################################################
+
 > Programming Languages
 
 <table>
 <tr>
+
 <td align="center" width="96">
-<a href="#macropower-tech">
+<a href="#nigel-guven">
 <img src="./src/img/c-sharp.png" width="48" height="48" alt="C#" />
 </a>
 <br>&nbsp;C#
 </td>
 
 <td align="center" width="96">
-<a href="#macropower-tech">
-<img src="./src/img/java-original.png" width="48" height="48" alt="Bootstrap" />
+<a href="#nigel-guven">
+<img src="./src/img/java-original.png" width="48" height="48" alt="Java" />
 </a>
 <br>Java
 </td>
 
 <td align="center" width="96">
-<a href="#macropower-tech">
+<a href="#nigel-guven">
 <img src="./src/img/python.png" width="48" height="48" alt="Python" />
 </a>
 <br>Python
 </td>
 
 <td align="center" width="96">
-<a href="#macropower-tech">
-<img src="./src/img/c-plusplus.png" width="48" height="48" alt="Python" />
+<a href="#nigel-guven">
+<img src="./src/img/c-plusplus.png" width="48" height="48" alt="C++" />
 </a>
 <br>C++
 </td>
@@ -64,6 +67,67 @@
 </tr>
 </table>
 
+###############################################################################
+
+> Frontend Frameworks
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/angular_icon.png" width="48" height="48" alt="Angular" />
+</a>
+<br>Angular
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/typescript.jpg" width="48" height="48" alt="Typescript" />
+</a>
+<br>Typescript
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/php-logo.svg.png" width="48" height="48" alt="PHP" />
+</a>
+<br>PHP
+</td>
+
+</tr>
+</table>
+
+###############################################################################
+
+> Data-Oriented Languages
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/c-sharp.png" width="48" height="48" alt="SQL" />
+</a>
+<br>&nbsp;SQL
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/java-original.png" width="48" height="48" alt="Bootstrap" />
+</a>
+<br>Java
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/python.png" width="48" height="48" alt="Python" />
+</a>
+<br>Python
+</td>
+
+</tr>
+</table>
 
 </p>
 </p>
