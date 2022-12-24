@@ -111,16 +111,9 @@
 
 <td align="center" width="96">
 <a href="#nigel-guven">
-<img src="./src/img/typescript.png" width="48" height="48" alt="Typescript" />
+<img src="./src/img/bootstrap.png" width="48" height="48" alt="Bootstrap" />
 </a>
-<br>Typescript
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/php-logo.svg.png" width="48" height="48" alt="PHP" />
-</a>
-<br>PHP
+<br>Bootstrap
 </td>
 
 </tr>
