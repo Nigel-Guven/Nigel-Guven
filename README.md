@@ -240,7 +240,7 @@
 <a href="#nigel-guven">
 <img src="./src/img/autofix.png" width="48" height="48" alt="Autofix" />
 </a>
-<br>&AutoFixture
+<br>AutoFixture
 </td>
 
 <td align="center" width="96">
@@ -430,7 +430,7 @@
 
 <td align="center" width="96">
 <a href="#nigel-guven">
-<img src="./src/img/sonar.png" width="48" height="48" alt="sonarqube" />
+<img src="./src/img/sonar.png" width="70" height="48" alt="sonarqube" />
 </a>
 <br>Sonarqube
 </td>
