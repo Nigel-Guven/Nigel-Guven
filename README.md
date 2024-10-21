@@ -145,6 +145,30 @@
 
 <!---###############################################################################-->
 
+> Scripting Languages
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/powershell.png" width="48" height="48" alt="Powershell" />
+</a>
+<br>Powershell
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/bash.svg" width="48" height="48" alt="Bash" />
+</a>
+<br>Bash
+</td>
+
+</tr>
+</table>
+
+<!---###############################################################################-->
+
 > Other Languages
 
 <table>
@@ -193,6 +217,51 @@
 <img src="./src/img/json-file.png" width="48" height="48" alt="JSON" />
 </a>
 <br>JSON
+</td>
+
+</tr>
+</table>
+
+<!---###############################################################################-->
+
+> .NET Related
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/entity.png" width="48" height="48" alt="entity" />
+</a>
+<br>Entity Framework
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/autofix.png" width="48" height="48" alt="Autofix" />
+</a>
+<br>&AutoFixture
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/fluent.png" width="48" height="48" alt="fluent" />
+</a>
+<br>Fluent Validations
+</td>
+        
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/moq.png" width="48" height="48" alt="moq" />
+</a>
+<br>Moq
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/stryker.svg" width="48" height="48" alt="stryker" />
+</a>
+<br>Stryker
 </td>
 
 </tr>
@@ -326,7 +395,7 @@
 
 <!---###############################################################################-->
 
-> Events and Logging
+> Events, Documentation and Logging
 
 <table>
 <tr>
@@ -350,6 +419,20 @@
 <img src="./src/img/kafka-icon.jpg" width="48" height="48" alt="kafka" />
 </a>
 <br>Kafka
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/cortex.png" width="48" height="48" alt="cortex" />
+</a>
+<br>Cortex
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/sonar.png" width="48" height="48" alt="sonarqube" />
+</a>
+<br>Sonarqube
 </td>
         
 </tr>
@@ -508,6 +591,27 @@
 <img src="./src/img/jenkins.png" width="48" height="48" alt="Jenkins" />
 </a>
 <br>Jenkins
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/appveyor.png" width="48" height="48" alt="Appveyor" />
+</a>
+<br>Appveyor
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/octopus.png" width="48" height="48" alt="octopus" />
+</a>
+<br>Octopus Deploy
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/helm.svg" width="48" height="48" alt="helm" />
+</a>
+<br>Helm
 </td>
         
 <td align="center" width="96">
