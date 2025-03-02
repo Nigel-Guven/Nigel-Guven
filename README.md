@@ -9,9 +9,9 @@
 <p>
 
 - :speech_balloon: &nbsp;I am a software engineer with experience at:
-  - **[LetsGetChecked]** (July 2021 - Current) | Software Developer 
-  - **[EShopWorld]** (June 2020 - June 2021) | Graduate Software Engineer 
-  - **[Veritas Technologies]** (March 2018 - October 2018) | Software Development Intern 
+  - **[LetsGetChecked](https://www.letsgetchecked.com/)** (July 2021 - Current) | Software Developer 
+  - **[EShopWorld](https://esw.com/)** (June 2020 - June 2021) | Graduate Software Engineer 
+  - **[Veritas Technologies](https://www.veritas.com/)** (March 2018 - October 2018) | Software Development Intern 
 
 - :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**  
 
