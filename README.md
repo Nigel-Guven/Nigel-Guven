@@ -8,16 +8,20 @@
 
 <p>
 
-- :speech_balloon: &nbsp;I am a software engineer with **[LetsGetChecked]**
-        
-- :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**
-        
-- :speech_balloon: &nbsp;I like to talk about **Cars**, **New Technologies** and **History**
-        
-- :car: My current project car is a **Toyota [GT86]**
-        
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-<br><br><br>
+- :speech_balloon: &nbsp;I am a software engineer with experience at:
+  - **[LetsGetChecked]** (July 2021 - Current) | Software Developer 
+  - **[EShopWorld]** (June 2020 - June 2021) | Graduate Software Engineer 
+  - **[Veritas Technologies]** (March 2018 - October 2018) | Software Development Intern 
+
+- :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**  
+
+- :speech_balloon: &nbsp;I like to talk about **Cars**, **New Technologies**, and **History**  
+
+- :car: My current project car is a **Toyota [GT86]**  
+
+- :computer: &nbsp;Connect with me on **[LinkedIn]**  
+
+<br><br><br>  
 </p>   
 
 
