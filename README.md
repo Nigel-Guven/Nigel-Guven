@@ -65,6 +65,48 @@
 <br>C++
 </td>
 
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/node.png" width="48" height="48" alt="NodeJS" />
+</a>
+<br>NodeJS
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/c-plusplus.png" width="48" height="48" alt="Typescript" />
+</a>
+<br>C++
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/c-plusplus.png" width="48" height="48" alt="Golang" />
+</a>
+<br>C++
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/fsharp.png" width="48" height="48" alt="FSharp" />
+</a>
+<br>&nbsp;F#
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/r-icon.png" width="48" height="48" alt="R" />
+</a>
+<br>R
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/sql-server.png" width="48" height="48" alt="SQL" />
+</a>
+<br>&nbsp;SQL
+</td>
+
 </tr>
 </table>
 
@@ -74,13 +116,6 @@
 
 <table>
 <tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/node.png" width="48" height="48" alt="NodeJS" />
-</a>
-<br>NodeJS
-</td>
 
 <td align="center" width="96">
 <a href="#nigel-guven">
@@ -125,30 +160,6 @@
 
 <!---###############################################################################-->
 
-> Data-Oriented Languages
-
-<table>
-<tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/sql-server.png" width="48" height="48" alt="SQL" />
-</a>
-<br>&nbsp;SQL
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/r-icon.png" width="48" height="48" alt="R" />
-</a>
-<br>R
-</td>
-
-</tr>
-</table>
-
-<!---###############################################################################-->
-
 > Scripting Languages
 
 <table>
@@ -177,13 +188,6 @@
 
 <table>
 <tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/fsharp.png" width="48" height="48" alt="FSharp" />
-</a>
-<br>&nbsp;F#
-</td>
     
 <td align="center" width="96">
 <a href="#nigel-guven">
