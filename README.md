@@ -76,14 +76,14 @@
 <a href="#nigel-guven">
 <img src="./src/img/c-plusplus.png" width="48" height="48" alt="Typescript" />
 </a>
-<br>C++
+<br>Typescript
 </td>
 
 <td align="center" width="96">
 <a href="#nigel-guven">
 <img src="./src/img/c-plusplus.png" width="48" height="48" alt="Golang" />
 </a>
-<br>C++
+<br>Golang
 </td>
 
 <td align="center" width="96">
