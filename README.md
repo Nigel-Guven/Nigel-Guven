@@ -64,108 +64,25 @@
 
 > Scripting Languages
 
-<table>
-<tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/powershell.png" width="48" height="48" alt="Powershell" />
-</a>
-<br>Powershell
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/bash.svg" width="48" height="48" alt="Bash" />
-</a>
-<br>Bash
-</td>
-
-</tr>
-</table>
-
-<!---###############################################################################-->
-
-> Other Languages
-
-<table>
-<tr>
-    
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/masm32.png" width="48" height="48" alt="x86Assembly" />
-</a>
-<br>MASM32
-</td>
-
-</tr>
-</table>
+![Powershell](https://img.shields.io/badge/-PowerShell-512BD4?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 <!---###############################################################################-->
 
 > Data Objects and Serializers
 
-<table>
-<tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/yml.png" width="48" height="48" alt="YAML" />
-</a>
-<br>&nbsp;YAML
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/xml.png" width="48" height="48" alt="XML" />
-</a>
-<br>XML
-</td>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/json-file.png" width="48" height="48" alt="JSON" />
-</a>
-<br>JSON
-</td>
-
-</tr>
-</table>
+![XML](https://img.shields.io/badge/-XML-000000?style=flat&logo=xml&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 
 <!---###############################################################################-->
 
 > .NET Related
 
-<table>
-<tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/entity.png" width="48" height="48" alt="entity" />
-</a>
-<br>Entity Framework
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/autofix.png" width="48" height="48" alt="Autofix" />
-</a>
-<br>AutoFixture
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/fluent.png" width="48" height="48" alt="fluent" />
-</a>
-<br>Fluent Validations
-</td>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/moq.png" width="48" height="48" alt="moq" />
-</a>
-<br>Moq
-</td>
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=dot-net&logoColor=white)
+![AutoFixture](https://img.shields.io/badge/-AutoFixture-333333?style=flat&logo=nuget&logoColor=white)
+![FluentValidation](https://img.shields.io/badge/-FluentValidation-DD6D00?style=flat&logo=nuget&logoColor=white)
+![Moq](https://img.shields.io/badge/-Moq-E1825B?style=flat&logo=nuget&logoColor=white)
 
 <td align="center" width="96">
 <a href="#nigel-guven">
