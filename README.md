@@ -34,11 +34,7 @@
 
 <!---###############################################################################-->
 
-> :cloud: Cloud Experience
-
 ![AWS Logo](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
-<br>
-
 ![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
@@ -46,19 +42,15 @@
 ![Route 53](https://img.shields.io/badge/-Route%2053-8C4FFF?style=flat&logo=amazon-route-53&logoColor=white)
 ![SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat&logo=amazon-sqs&logoColor=white)
 ![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white)
-![CodeDeploy](https://img.shields.io/badge/-CodeDeploy-000000?style=flat&logo=aws-codedeploy&logoColor=white)
+![CodeDeploy](https://img.shields.io/badge/-CodeDeploy-FF9900?style=flat&logo=aws-codedeploy&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
 
 ![Azure Logo](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
-<br>
-
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azure-devops&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-0078D4?style=flat&logo=azure-cosmos-db&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0078D4?style=flat&logo=azure-functions&logoColor=white)
 
 ![GCP Logo](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
-<br>
-
 ![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Firebase MLKit](https://img.shields.io/badge/-ML%20Kit-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
