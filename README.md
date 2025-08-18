@@ -1,37 +1,25 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nigel Guven</h1>
-
 <p>
-<a href="https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/overview.svg">
-        <img src="src/workflow/generated/overview.svg" alt="nigels" align="right"/>
-</a>
+        <a href="https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/overview.svg"><img src="src/workflow/generated/overview.svg" alt="nigels" align="right"/></a>
 </p>
-
 <p>
 
 - :speech_balloon: &nbsp;I am a software engineer with experience at:
   - **[LetsGetChecked](https://www.letsgetchecked.com/)** (July 2021 - Current) | Software Developer 
   - **[EShopWorld](https://esw.com/)** (June 2020 - June 2021) | Junior Software Developer
   - **[Veritas Technologies](https://www.veritas.com/)** (March 2018 - October 2018) | Software Development Intern 
-
 - :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**  
-
 - :speech_balloon: &nbsp;I like to talk about **Cars**, **New Technologies**, and **History**  
-
 - :car: My current project car is a **Toyota [GT86]**  
-
 - :computer: &nbsp;Connect with me on **[LinkedIn]**  
 
-<br><br><br>  
 </p>   
 
+<a href="https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/languages.svg"><img src="src/workflow/generated/languages.svg" alt="nigels" align="right"/></a>
 
-<a href="https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/languages.svg">
-        <img src="src/workflow/generated/languages.svg" alt="nigels" align="right"/>
-</a>
 
-<h2 align="left" id="macropower-tech">My Experience</h2>
+<h2 style="border-bottom: none;">My Experience</h2>
 
-<!---###############################################################################-->
 
 > Programming Languages
 
@@ -241,14 +229,6 @@
 
 ![Umlet](https://img.shields.io/badge/-Umlet-000000?style=flat&logo=uml&logoColor=white)
 ![Visio](https://img.shields.io/badge/-Visio-4284CF?style=flat&logo=microsoft-office&logoColor=white)
-
-<!---###############################################################################-->
-
-> Agile Frameworks
-
-I have a certificate in Scaled Agile Frameworks 4.0 which I received while on a Graduate Programme at [esw].
-
-![SAFe 4.0](https://img.shields.io/badge/-SAFe%204.0-000000?style=flat&logo=scaled-agile-framework&logoColor=white)
 
 <!---###############################################################################-->
 
