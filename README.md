@@ -17,10 +17,8 @@
 
 <a href="https://github.com/Nigel-Guven/Nigel-Guven/blob/main/src/workflow/generated/languages.svg"><img src="src/workflow/generated/languages.svg" alt="nigels" align="right"/></a>
 
-<span style="font-size: 50px;">My Experience</span><br>
-<span style="font-size: 32px;">This text is even bigger.</span><br>
-<span style="font-size: 80px;">This text is even bigger.</span>
-<span style="font-size: 24px; color: blue;">This text is bigger and blue.</span>
+<h3>My Experience</h3>
+
 > Programming Languages
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
