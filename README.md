@@ -35,80 +35,16 @@
 
 > Programming Languages
 
-<table>
-<tr>
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/c-sharp.png" width="48" height="48" alt="C#" />
-</a>
-<br>&nbsp;C#
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/java-original.png" width="48" height="48" alt="Java" />
-</a>
-<br>Java
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/python.png" width="48" height="48" alt="Python" />
-</a>
-<br>Python
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/c-plusplus.png" width="48" height="48" alt="C++" />
-</a>
-<br>C++
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/node.png" width="48" height="48" alt="NodeJS" />
-</a>
-<br>NodeJS
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/c-plusplus.png" width="48" height="48" alt="Typescript" />
-</a>
-<br>Typescript
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/c-plusplus.png" width="48" height="48" alt="Golang" />
-</a>
-<br>Golang
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/fsharp.png" width="48" height="48" alt="FSharp" />
-</a>
-<br>&nbsp;F#
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/r-icon.png" width="48" height="48" alt="R" />
-</a>
-<br>R
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/sql-server.png" width="48" height="48" alt="SQL" />
-</a>
-<br>&nbsp;SQL
-</td>
-
-</tr>
-</table>
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![F#](https://img.shields.io/badge/-F%23-B845FC?style=flat&logo=fsharp&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql-server&logoColor=white)
 
 <!---###############################################################################-->
 
