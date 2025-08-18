@@ -80,9 +80,28 @@
 > .NET Related
 
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=dot-net&logoColor=white)
+![IdentityServer](https://img.shields.io/badge/-IdentityServer-000000?style=flat&logo=dot-net&logoColor=white)
 ![AutoFixture](https://img.shields.io/badge/-AutoFixture-333333?style=flat&logo=nuget&logoColor=white)
 ![FluentValidation](https://img.shields.io/badge/-FluentValidation-DD6D00?style=flat&logo=nuget&logoColor=white)
 ![Moq](https://img.shields.io/badge/-Moq-E1825B?style=flat&logo=nuget&logoColor=white)
+![Dapper](https://img.shields.io/badge/-Dapper-F46400?style=flat&logo=nuget&logoColor=white)
+![MediatR](https://img.shields.io/badge/-MediatR-22A888?style=flat&logo=nuget&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/-AutoMapper-A52A2A?style=flat&logo=nuget&logoColor=white)
+![Autofac](https://img.shields.io/badge/-Autofac-56B9E9?style=flat&logo=nuget&logoColor=white)
+![Avro.NET](https://img.shields.io/badge/-Avro-000000?style=flat&logo=apache&logoColor=white)
+![Polly](https://img.shields.io/badge/-Polly-4CAF50?style=flat&logo=nuget&logoColor=white)
+![Nancy](https://img.shields.io/badge/-Nancy-005C2B?style=flat&logo=nuget&logoColor=white)
+![SpecFlow](https://img.shields.io/badge/-SpecFlow-9F2B68?style=flat&logo=githubactions&logoColor=white)
+![Serilog](https://img.shields.io/badge/-Serilog-F55D50?style=flat&logo=nuget&logoColor=white)
+![Razor](https://img.shields.io/badge/-Razor-512BD4?style=flat&logo=dot-net&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MassTransit](https://img.shields.io/badge/-MassTransit-800080?style=flat&logo=nuget&logoColor=white)
+![xUnit](https://img.shields.io/badge/-xUnit-141414?style=flat&logo=xunit&logoColor=white)
+![NSubstitute](https://img.shields.io/badge/-NSubstitute-DD6D00?style=flat&logo=nuget&logoColor=white)
+![NUnit](https://img.shields.io/badge/-NUnit-8F8D93?style=flat&logo=nunit&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Swashbuckle](https://img.shields.io/badge/-Swashbuckle-512BD4?style=flat&logo=dot-net&logoColor=white)
 
 <!---###############################################################################-->
 
@@ -481,21 +500,6 @@ I have a certificate in Scaled Agile Frameworks 4.0 which I received while on a 
 - Vertical Slice Architecture
 - Onion N-Tier Architecture
 - Event Based Architecture
-
-<!---###############################################################################-->
-
-> .NET Packages I have used in industry
-
-- Dapper
-- Mediatr
-- Auto-Mapper
-- Autofac
-- Avro
-- Polly
-- Nancy
-- SpecFlow
-- Moq
-- Serilog
 
 <!---###############################################################################-->
     
