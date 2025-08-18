@@ -107,110 +107,35 @@
 
 > Web Styling and Design Flow
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/html.png" width="48" height="48" alt="HTML" />
-</a>
-<br>HTML
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/css.png" width="48" height="48" alt="CSS" />
-</a>
-<br>&nbsp;CSS
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/sass.png" width="48" height="48" alt="SASS" />
-</a>
-<br>SASS
-</td>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/invision.png" width="48" height="48" alt="Invision" />
-</a>
-<br>Invision
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/figma.png" width="48" height="48" alt="Figma" />
-</a>
-<br>Figma
-</td>
-        
-</tr>
-</table>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Invision](https://img.shields.io/badge/-InVision-FF3366?style=flat&logo=invision&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
         
 <!---###############################################################################-->
 
 > IDE's I use
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/vs.png" width="48" height="48" alt="Visual Studio" />
-</a>
-<br>Visual Studio
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/android_studio.png" width="48" height="48" alt="AndroidStudio" />
-</a>
-<br>Android Studio
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/sqlserver.png" width="48" height="48" alt="SQLServer" />
-</a>
-<br>SQL Server
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/r.jpg" width="48" height="48" alt="RStudio" />
-</a>
-<br>RStudio
-</td>
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/codeblocks.png" width="48" height="48" alt="CodeBlocks" />
-</a>
-<br>CodeBlocks
-</td>
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/eclipse-ide.png" width="48" height="48" alt="Eclipse" />
-</a>
-<br>Eclipse
-</td>
-        
-</tr>
-</table>
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-A0A0A0?style=flat&logo=codeblocks&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 <!---###############################################################################-->
 
 > Cloud Experience
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/aws.png" width="85" height="48" alt="AWS" />
-</a>
-<br>AWS
-</td>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+![AWS S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat&logo=amazon-sqs&logoColor=white)
 
 <td align="center" width="96">
 <a href="#nigel-guven">
@@ -225,9 +150,7 @@
 </a>
 <br>GCP
 </td>
-        
-</tr>
-</table>
+
 
 <!---###############################################################################-->
 
