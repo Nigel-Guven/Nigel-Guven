@@ -163,91 +163,31 @@
 
 <!---###############################################################################-->
 
-> Events, Documentation and Logging
+> Messaging and Streaming
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/splunk.png" width="48" height="48" alt="Splunk" />
-</a>
-<br>Splunk
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/grafana.svg" width="48" height="48" alt="Grafana" />
-</a>
-<br>Grafana
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/kafka-icon.jpg" width="48" height="48" alt="kafka" />
-</a>
-<br>Kafka
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/cortex.png" width="48" height="48" alt="cortex" />
-</a>
-<br>Cortex
-</td>
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MassTransit](https://img.shields.io/badge/-MassTransit-800080?style=flat&logo=nuget&logoColor=white)
 
 
 <!---###############################################################################-->
 
 > Dependency Managers
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/paket.png" width="48" height="48" alt="Paket" />
-</a>
-<br>Paket
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/nuget.png" width="48" height="48" alt="Nuget" />
-</a>
-<br>NuGet
-</td>
-        
-</tr>
-</table>
+![Paket](https://img.shields.io/badge/-Paket-5C2D91?style=flat&logo=nuget&logoColor=white)
+![NuGet](https://img.shields.io/badge/-NuGet-004880?style=flat&logo=nuget&logoColor=white)
 
 <!---###############################################################################-->
 
 > API Platforms
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/postman.png" width="48" height="48" alt="Postman" />
-</a>
-<br>Postman
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/swagger.png" width="48" height="48" alt="Swagger" />
-</a>
-<br>SwaggerAPI
-</td>
-        
-</tr>
-</table>
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 
 <!---###############################################################################-->
 
-> Code Quality, Analysis, Documentation, QA Frameworks
+> Code Quality, Logging, Documentation, QA Frameworks
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![FitNesse](https://img.shields.io/badge/-FitNesse-000000?style=flat&logo=fitnesse&logoColor=white)
@@ -262,141 +202,43 @@
 
 > Systems Analysis
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/umlet.png" width="48" height="48" alt="UmLet" />
-</a>
-<br>UmLet
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/visio.png" width="48" height="48" alt="Visio" />
-</a>
-<br>Visio
-</td>
-        
-</tr>
-</table>
+![Umlet](https://img.shields.io/badge/-Umlet-000000?style=flat&logo=uml&logoColor=white)
+![Visio](https://img.shields.io/badge/-Visio-4284CF?style=flat&logo=microsoft-office&logoColor=white)
 
 <!---###############################################################################-->
 
 > Infrastructure, VCS, CICD Tools I have implemented in industry
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/docker.png" width="48" height="48" alt="Docker" />
-</a>
-<br>Docker
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/terraform.png" width="48" height="48" alt="Terraform" />
-</a>
-<br>Terraform
-</td>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/consul.png" width="48" height="48" alt="Consul" />
-</a>
-<br>Consul
-</td>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/jenkins.png" width="48" height="48" alt="Jenkins" />
-</a>
-<br>Jenkins
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/appveyor.png" width="48" height="48" alt="Appveyor" />
-</a>
-<br>Appveyor
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/octopus.png" width="48" height="48" alt="octopus" />
-</a>
-<br>Octopus Deploy
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/helm.svg" width="48" height="48" alt="helm" />
-</a>
-<br>Helm
-</td>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/git.png" width="48" height="48" alt="GitDistros" />
-</a>
-<br>Git Distr.
-</td>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/sourcetree.svg" width="48" height="48" alt="SourceTree" />
-</a>
-<br>SourceTree
-</td>
-        
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Consul](https://img.shields.io/badge/-Consul-F24C21?style=flat&logo=consul&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Appveyor](https://img.shields.io/badge/-Appveyor-407425?style=flat&logo=appveyor&logoColor=white)
+![Octopus Deploy](https://img.shields.io/badge/-Octopus%20Deploy-10499C?style=flat&logo=octopusdeploy&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
 
 <!---###############################################################################-->
 
 > Agile Frameworks
 
-I have a certificate in Scaled Agile Frameworks 4.0 which I received while on a Graduate Programme at [esw]
+I have a certificate in Scaled Agile Frameworks 4.0 which I received while on a Graduate Programme at [esw].
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/safe.png" width="48" height="48" alt="Safe" />
-</a>
-<br>SAFe 4.0
-</td>
-        
-</tr>
-</table>
+![SAFe 4.0](https://img.shields.io/badge/-SAFe%204.0-000000?style=flat&logo=scaled-agile-framework&logoColor=white)
 
 <!---###############################################################################-->
 
 > Software Architectures I am familiar with
 
+- **Monolithic Architecture**
 - Vertical Slice Architecture
 - Onion N-Tier Architecture
-- Event Based Architecture
-
-<!---###############################################################################-->
-    
-> Interesting cloud features that I have used
-
-:fire: Firebase MLKit
-
-:cloud: Firebase Cloud Functions
-
-:sun_behind_small_cloud: AWS Lambda
-
-:outbox_tray: AWS S3
-
-:pager: AWS SNS
-
-:spiral_notepad: AWS SQS
+- Hexagonal Architecture
+- Event-Based Architecture
+- Serverless Architecture
+- Microservices Architecture
+- Service-Oriented Architecture (SOA)
 
 <!---###############################################################################-->
 
