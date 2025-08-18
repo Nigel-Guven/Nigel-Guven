@@ -100,7 +100,6 @@
 ![xUnit](https://img.shields.io/badge/-xUnit-141414?style=flat&logo=xunit&logoColor=white)
 ![NSubstitute](https://img.shields.io/badge/-NSubstitute-DD6D00?style=flat&logo=nuget&logoColor=white)
 ![NUnit](https://img.shields.io/badge/-NUnit-8F8D93?style=flat&logo=nunit&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 ![Swashbuckle](https://img.shields.io/badge/-Swashbuckle-512BD4?style=flat&logo=dot-net&logoColor=white)
 
 <!---###############################################################################-->
@@ -128,23 +127,29 @@
 
 <!---###############################################################################-->
 
-> Cloud Experience
+> :cloud: Cloud Experience
 
-:cloud: ![AWS Logo](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![AWS Logo](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
 <br>
 
-![AWS S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![AWS SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat&logo=amazon-sqs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Route 53](https://img.shields.io/badge/-Route%2053-8C4FFF?style=flat&logo=amazon-route-53&logoColor=white)
+![SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat&logo=amazon-sqs&logoColor=white)
+![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white)
+![CodeDeploy](https://img.shields.io/badge/-CodeDeploy-000000?style=flat&logo=aws-codedeploy&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
 
-:window: ![Azure Logo](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
+![Azure Logo](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
 <br>
 
-![Azure Functions](https://img.shields.io/badge/-Functions-0078D4?style=flat&logo=azure-functions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azure-devops&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-0078D4?style=flat&logo=azure-cosmos-db&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0078D4?style=flat&logo=azure-functions&logoColor=white)
 
-:fire: :rainbow: ![GCP Logo](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+![GCP Logo](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
 <br>
 
 ![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
@@ -191,22 +196,6 @@
 <br>Cortex
 </td>
 
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/sonar.png" width="70" height="48" alt="sonarqube" />
-</a>
-<br>Sonarqube
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/stryker.svg" width="48" height="48" alt="stryker" />
-</a>
-<br>Stryker
-</td>
-        
-</tr>
-</table>
 
 <!---###############################################################################-->
 
@@ -258,51 +247,16 @@
 
 <!---###############################################################################-->
 
-> NoSQL Databases I have experience with
+> Code Quality, Analysis, Documentation, QA Frameworks
 
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/DynamoDB.png" width="48" height="48" alt="dynamo" />
-</a>
-<br>DynamoDB
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/firebase.png" width="48" height="48" alt="Firebase" />
-</a>
-<br>Firebase
-</td>
-        
-</tr>
-</table>
-
-<!---###############################################################################-->
-
-> Testing Tools
-
-<table>
-<tr>
-        
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/selenium-test-automation.png" width="48" height="48" alt="selenium" />
-</a>
-<br>Selenium
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/fitnesse.jpg" width="48" height="48" alt="FitNesse" />
-</a>
-<br>FitNesse
-</td>
-        
-</tr>
-</table>
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![FitNesse](https://img.shields.io/badge/-FitNesse-000000?style=flat&logo=fitnesse&logoColor=white)
+![Stryker](https://img.shields.io/badge/-Stryker-F04A05?style=flat&logo=csharp&logoColor=white)
+![Sonarqube](https://img.shields.io/badge/-Sonarqube-4EAA25?style=flat&logo=sonarqube&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Cortex](https://img.shields.io/badge/-Cortex-000000?style=flat&logo=cortex&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 
 <!---###############################################################################-->
 
