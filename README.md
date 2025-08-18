@@ -84,16 +84,6 @@
 ![FluentValidation](https://img.shields.io/badge/-FluentValidation-DD6D00?style=flat&logo=nuget&logoColor=white)
 ![Moq](https://img.shields.io/badge/-Moq-E1825B?style=flat&logo=nuget&logoColor=white)
 
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/stryker.svg" width="48" height="48" alt="stryker" />
-</a>
-<br>Stryker
-</td>
-
-</tr>
-</table>
-
 <!---###############################################################################-->
 
 > Web Styling and Design Flow
@@ -260,6 +250,13 @@
 <img src="./src/img/sonar.png" width="70" height="48" alt="sonarqube" />
 </a>
 <br>Sonarqube
+</td>
+
+<td align="center" width="96">
+<a href="#nigel-guven">
+<img src="./src/img/stryker.svg" width="48" height="48" alt="stryker" />
+</a>
+<br>Stryker
 </td>
         
 </tr>
