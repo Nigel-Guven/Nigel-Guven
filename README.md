@@ -130,27 +130,31 @@
 
 > Cloud Experience
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+:cloud: ![AWS Logo](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+<br>
 
 ![AWS S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![AWS SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat&logo=amazon-sqs&logoColor=white)
 
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/azure.png" width="48" height="48" alt="Azure" />
-</a>
-<br>Azure
-</td>
+:window: ![Azure Logo](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
+<br>
 
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/gcp.png" width="70" height="48" alt="gcp" />
-</a>
-<br>GCP
-</td>
+![Azure Functions](https://img.shields.io/badge/-Functions-0078D4?style=flat&logo=azure-functions&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-0078D4?style=flat&logo=azure-cosmos-db&logoColor=white)
 
+:fire: :rainbow: ![GCP Logo](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+<br>
+
+![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Firebase MLKit](https://img.shields.io/badge/-ML%20Kit-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Realtime Database](https://img.shields.io/badge/-Realtime%20Database-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Authentication](https://img.shields.io/badge/-Authentication-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Analytics](https://img.shields.io/badge/-Analytics-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat&logo=google-ai&logoColor=white)
 
 <!---###############################################################################-->
 
