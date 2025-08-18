@@ -50,49 +50,15 @@
 
 > Backend Frameworks
 
-<table>
-<tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/netcore.png" width="48" height="48" alt=".NETCore" />
-</a>
-<br>.NETCore
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/springboot.png" width="48" height="48" alt="Spring Boot" />
-</a>
-<br>Spring Boot
-</td>
-
-</tr>
-</table>
+![.NETCore](https://img.shields.io/badge/-.NETCore-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 <!---###############################################################################-->
 
 > Frontend Frameworks
 
-<table>
-<tr>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/angular_icon.png" width="48" height="48" alt="Angular" />
-</a>
-<br>Angular
-</td>
-
-<td align="center" width="96">
-<a href="#nigel-guven">
-<img src="./src/img/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-</a>
-<br>Bootstrap
-</td>
-
-</tr>
-</table>
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 <!---###############################################################################-->
 
