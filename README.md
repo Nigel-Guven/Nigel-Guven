@@ -5,7 +5,7 @@
 <p>
 
 - :speech_balloon: &nbsp;I am a software engineer with experience at:
-  - **[LetsGetChecked](https://www.letsgetchecked.com/)** (July 2021 - Current) | Software Developer 
+  - **[LetsGetChecked](https://www.letsgetchecked.com/)** (July 2021 - October 2025) | Software Developer 
   - **[EShopWorld](https://esw.com/)** (June 2020 - June 2021) | Junior Software Developer
   - **[Veritas Technologies](https://www.veritas.com/)** (March 2018 - October 2018) | Software Development Intern 
 - :seedling: &nbsp;I’m currently following a learning path in **.NET [Development]**  
